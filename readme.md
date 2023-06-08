@@ -23,8 +23,9 @@
 
 | CoronaSDK | lua |
 | :--------: | :--------: |
-|   <img src="/.images/coronasdk.png" width="200" height="180"/>   |   <img src="/.images/lua.png" width="200" height="200"/>    |
+|   <img src="https://raw.githubusercontent.com/ITJEONG-DEV/README/main/.images/coronasdk.png" width="200" height="180"/>   |   <img src="https://raw.githubusercontent.com/ITJEONG-DEV/README/main/.images/lua.png" width="180" height="180"/>    |
 
+<br>
 <br>
 
 ## 배운 점
