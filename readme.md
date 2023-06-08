@@ -73,4 +73,4 @@
 
 ## 라이센스
 
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
+MIT &copy; [ITJEONG](mailto:derbana1027@gmail.com)
